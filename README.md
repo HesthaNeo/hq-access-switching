@@ -13,9 +13,8 @@
     <p>Step 7: Configure Access Ports</p>
     <h2><strong><u>Implementation</u></strong></h2>
         <h3>Step 1: Rack, Mount, and Power On All 3 Switches</h3>
-            <p>- First, we'll add two 3560 switches to the topology by dragging and dropping them into the Headquarters 
-section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-CORE-SW2.</p>
-                <img width="1978" height="1039" alt="Screenshot 2026-02-05 173646" src="https://github.com/user-attachments/assets/bef0dc50-1028-4d73-85a9-3f554476c6da" />
+            <p>- First, we'll add three 2960 switches to the topology by dragging and dropping them into the Headquarters section of the lab. Place them side by side and label them as HQ-ASW1, HQ-ASW2, and HQ-ASW3.</p>
+                <img width="849" height="976" alt="Screenshot 2026-02-06 170658" src="https://github.com/user-attachments/assets/e52a4e44-0c29-4aa3-b086-897725456782" />
         <h3>Step 2: Basic Switch Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</h3>
             <p>- In this step, we did basic configuration for both of the switches including changing their hostnames, setting their time zones, enabling SSH, setting domain names, adding securiting to console and vty lines for SSH, and creating user profiles with a password the devices.</p>
                 <img width="925" height="1042" alt="Screenshot 2026-02-05 174601" src="https://github.com/user-attachments/assets/b41860bc-2ea6-450d-a5c5-0f99b8e24ed3" />

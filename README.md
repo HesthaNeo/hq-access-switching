@@ -21,9 +21,10 @@
                 <img width="870" height="905" alt="Screenshot 2026-02-06 171255" src="https://github.com/user-attachments/assets/bfbb60cc-eb80-42e5-96e2-53c630386aa8" />
                 <img width="872" height="907" alt="Screenshot 2026-02-06 171401" src="https://github.com/user-attachments/assets/f6f42ebc-d37f-4d1f-becb-f746c8e8955f" />
         <h3>Step 3: Configure VLAN Trunking Protocol (VTP) Client</h3>
-            <p>- Next is to enable IP Routing and multilayer switch quality of service to allow communication between different VLANs (subnets) directly on the switch and so that critical traffic gets priority.</p>
-                <img width="870" height="884" alt="Screenshot 2026-02-05 175900" src="https://github.com/user-attachments/assets/51785ecf-fd6c-4980-bf86-3986d609e2c9" />
-                <img width="866" height="886" alt="Screenshot 2026-02-05 175948" src="https://github.com/user-attachments/assets/c9caab27-d06c-4fc6-afc6-2c6d1fbad001" />
+            <p>- Next we will configure VTP on these switches to receive and sync all VLAN updates from the vtp server we configured in the first milestone.</p>
+                <img width="873" height="618" alt="Screenshot 2026-02-06 172047" src="https://github.com/user-attachments/assets/286483a4-c123-4d64-91e9-1392d67fe7a6" />
+                <img width="871" height="616" alt="Screenshot 2026-02-06 172212" src="https://github.com/user-attachments/assets/0239a279-7874-41fe-9cde-7602be6e307d" />
+                <img width="871" height="890" alt="Screenshot 2026-02-06 172337" src="https://github.com/user-attachments/assets/92834966-d56d-4f3a-b417-4e1c1a37db5f" />
         <h3>Step 4: Create MGMT VLAN Interface</h3>
             <p>- For this step, we will now create these VLANs on both switches to segment a single physical network infrastructure into multiple, isolated, logical networks, improving performance, security, and management.</p>
                 <img width="869" height="920" alt="Screenshot 2026-02-05 180818" src="https://github.com/user-attachments/assets/9bf9ce07-cc81-4e64-ad62-6f9865424ea9" />

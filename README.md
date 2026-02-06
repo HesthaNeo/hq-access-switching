@@ -4,7 +4,7 @@
 <h1><u>Milestone 3: HQ Access Switching</u></h1>
     <p>Second phase, we will install 3 Cisco WS-C2960-24TT layer 2 access switches.</p>
     <h2><strong><u>Configuration Steps</u></strong></h2>
-    <p>Step 1: Rack Mount, and Power On All 3 Switches</p>
+    <p>Step 1: Rack, Mount, and Power On All 3 Switches</p>
     <p>Step 2: Basic Switch Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</p>
     <p>Step 3: Configure VLAN Trunking Protocol (VTP) Client</p>
     <p>Step 4: Create MGMT VLAN Interface</p>

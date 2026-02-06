@@ -1,7 +1,7 @@
 <p align="center">
 <img width="901" height="274" alt="Screenshot 2026-02-06 164314" src="https://github.com/user-attachments/assets/cec2ced5-3323-4d84-a2a2-b60b96955907" />
 </p>
-<h1><u>Milestone 3: HQ Access-Switching</u></h1>
+<h1><u>Milestone 3: HQ Access Switching</u></h1>
     <p>Second phase, we will install 3 Cisco WS-C2960-24TT layer 2 access switches.</p>
     <h2><strong><u>Configuration Steps</u></strong></h2>
     <p>Step 1: Rack Mount, Power On and Cable Both Switches</p>

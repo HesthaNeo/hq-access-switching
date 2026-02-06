@@ -7,10 +7,10 @@
     <p>Step 1: Rack Mount, and Power On All 3 Switches</p>
     <p>Step 2: Basic Switch Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</p>
     <p>Step 3: Configure VLAN Trunking Protocol (VTP) Client</p>
-    <p>Step 6: Create MGMT VLAN Interface</p>
-    <p>Step 7: Configure Default Gateway</p>
-    <p>Step 8: Configure and Connect Trunk Ports</p>
-    <p>Step 10: Configure Access Ports</p>
+    <p>Step 4: Create MGMT VLAN Interface</p>
+    <p>Step 5: Configure Default Gateway</p>
+    <p>Step 6: Configure and Connect Trunk Ports</p>
+    <p>Step 7: Configure Access Ports</p>
     <h2><strong><u>Implementation</u></strong></h2>
         <h3>Step 1: Rack Mount, Power On and Cable Both Switches</h3>
             <p>- First, we'll add two 3560 switches to the topology by dragging and dropping them into the Headquarters 

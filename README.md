@@ -31,9 +31,10 @@
                 <img width="871" height="337" alt="Screenshot 2026-02-06 173041" src="https://github.com/user-attachments/assets/92a3c725-654c-48a2-a163-69e590954c51" />
                 <img width="871" height="275" alt="Screenshot 2026-02-06 173158" src="https://github.com/user-attachments/assets/cb897151-013a-4724-9fb4-ab388a8a53a2" />
         <h3>Step 5: Configure Default Gateway</h3>
-            <p>- In this step, we will configure the VLAN Trunking Protocol Server to centralize and automate the management of VLAN configurations (add, delete, rename) across all switches in this topology.</p>
-                <img width="869" height="956" alt="Screenshot 2026-02-05 181801" src="https://github.com/user-attachments/assets/fafc602d-5167-46e5-978a-5a821b52ddab" />
-                <img width="868" height="954" alt="Screenshot 2026-02-05 182024" src="https://github.com/user-attachments/assets/5d99222e-830f-4727-a75b-4fa69ab05f5b" />
+            <p>- In this step, we will configure the default gateway for all 3 switches.</p>
+                <img width="867" height="227" alt="Screenshot 2026-02-06 173804" src="https://github.com/user-attachments/assets/7889b8e9-57a4-489e-830c-0666a44a69cd" />
+                <img width="868" height="226" alt="Screenshot 2026-02-06 173845" src="https://github.com/user-attachments/assets/f0f17c2b-956e-49ff-b165-c225725d7412" />
+                <img width="874" height="225" alt="Screenshot 2026-02-06 173925" src="https://github.com/user-attachments/assets/10c4ef2e-7b14-4da8-8c5c-26a442f6884b" />
         <h3>Step 6: Configure and Connect Trunk Ports</h3>
             <p>- For this step, we will create the VLAN interfaces for the corresponding VLANs we have created, so that we can in fact route traffic between the different VLANs, enabling inter-VLAN communication.</p>
                 <img width="866" height="744" alt="Screenshot 2026-02-05 183818" src="https://github.com/user-attachments/assets/163ad1d5-f493-45e2-8456-a2ea8ab5bd31" />

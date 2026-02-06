@@ -14,7 +14,9 @@
     <h2><strong><u>Implementation</u></strong></h2>
         <h3>Step 1: Rack, Mount, and Power On All 3 Switches</h3>
             <p>- First, we'll add three 2960 switches to the topology by dragging and dropping them into the Headquarters section of the lab. Place them side by side and label them as HQ-ASW1, HQ-ASW2, and HQ-ASW3.</p>
-                <img width="849" height="976" alt="Screenshot 2026-02-06 170658" src="https://github.com/user-attachments/assets/e52a4e44-0c29-4aa3-b086-897725456782" />
+                <img width="867" height="896" alt="Screenshot 2026-02-06 171129" src="https://github.com/user-attachments/assets/3ae0553b-ebfd-4adc-8154-4c4cac1bd1b1" />
+                <img width="870" height="905" alt="Screenshot 2026-02-06 171255" src="https://github.com/user-attachments/assets/bfbb60cc-eb80-42e5-96e2-53c630386aa8" />
+                <img width="872" height="907" alt="Screenshot 2026-02-06 171401" src="https://github.com/user-attachments/assets/f6f42ebc-d37f-4d1f-becb-f746c8e8955f" />
         <h3>Step 2: Basic Switch Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</h3>
             <p>- In this step, we did basic configuration for both of the switches including changing their hostnames, setting their time zones, enabling SSH, setting domain names, adding securiting to console and vty lines for SSH, and creating user profiles with a password the devices.</p>
                 <img width="925" height="1042" alt="Screenshot 2026-02-05 174601" src="https://github.com/user-attachments/assets/b41860bc-2ea6-450d-a5c5-0f99b8e24ed3" />

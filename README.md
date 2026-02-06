@@ -54,6 +54,10 @@
                 <img width="867" height="386" alt="Screenshot 2026-02-06 181415" src="https://github.com/user-attachments/assets/5cc841fe-bd6e-40cb-a1cc-1cb2cd8952f8" />
                 <img width="868" height="387" alt="Screenshot 2026-02-06 181548" src="https://github.com/user-attachments/assets/b64da8dd-b3d7-4cbf-8c24-d53e40269be8" />
                 <img width="870" height="381" alt="Screenshot 2026-02-06 181705" src="https://github.com/user-attachments/assets/0f8dd081-9bb0-4669-8d3e-244d0e3e4b16" />
+            <p>- A. We will now connect each access switch trunk port to the core switches using ethernet crossover cables.</p>
+            <p><em>- We will connect ASW 1-3 port Fa0/23 to a trunk ports fa0/19 on CORE-SW1.</em></p>
+            <p><em>- We will connect ASW 1-3 port Fa0/24 to a trunk ports fa0/19 on CORE-SW2.</em></p>
+            
             <p><em>- For the priority 255 command, it will force the switch to be the primary gateway, while configuring priority 0 will ensure it is the last resort for the specific vlan. The preempt command allows the higher priority switch to immediately seize control from the active switch with lower the priority if there happened to be a device failure.</em></p>
         
 

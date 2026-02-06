@@ -7,7 +7,7 @@
     <p>Step 1: Rack, Mount, and Power On All 3 Switches</p>
     <p>Step 2: Basic Switch Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</p>
     <p>Step 3: Configure VLAN Trunking Protocol (VTP) Client</p>
-    <p>Step 4: Create MGMT VLAN Interface</p>
+    <p>Step 4: Configure MGMT VLAN Interface</p>
     <p>Step 5: Configure Default Gateway</p>
     <p>Step 6: Configure and Connect Trunk Ports</p>
     <p>Step 7: Configure Access Ports</p>
@@ -25,7 +25,8 @@
                 <img width="873" height="618" alt="Screenshot 2026-02-06 172047" src="https://github.com/user-attachments/assets/286483a4-c123-4d64-91e9-1392d67fe7a6" />
                 <img width="871" height="616" alt="Screenshot 2026-02-06 172212" src="https://github.com/user-attachments/assets/0239a279-7874-41fe-9cde-7602be6e307d" />
                 <img width="871" height="890" alt="Screenshot 2026-02-06 172337" src="https://github.com/user-attachments/assets/92834966-d56d-4f3a-b417-4e1c1a37db5f" />
-        <h3>Step 4: Create MGMT VLAN Interface</h3>
+        <h3>Step 4: Configure MGMT VLAN Interface</h3>
+            <p>- Next we will configure the interface for the management VLAN connectivity on all 3 switches for centralized network management.</p>
                 <img width="866" height="272" alt="Screenshot 2026-02-06 172923" src="https://github.com/user-attachments/assets/f4bc5bc7-b1c7-406a-99c1-572975935a4d" />
                 <img width="871" height="337" alt="Screenshot 2026-02-06 173041" src="https://github.com/user-attachments/assets/92a3c725-654c-48a2-a163-69e590954c51" />
                 <img width="871" height="275" alt="Screenshot 2026-02-06 173158" src="https://github.com/user-attachments/assets/cb897151-013a-4724-9fb4-ab388a8a53a2" />

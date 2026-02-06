@@ -1,5 +1,5 @@
 <p align="center">
-<img width="833" height="266" alt="Screenshot 2026-02-06 162757" src="https://github.com/user-attachments/assets/afaa484e-b667-4c15-aab5-62f0dc62a456" />
+<img width="901" height="274" alt="Screenshot 2026-02-06 164314" src="https://github.com/user-attachments/assets/cec2ced5-3323-4d84-a2a2-b60b96955907" />
 </p>
 <h1><u>Milestone 2: HQ Core-Switching</u></h1>
     <p>First phase, we will install 2 Cisco WS-C3560-24PS configured with port-channel, Hot Standby Router

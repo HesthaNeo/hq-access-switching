@@ -50,7 +50,7 @@
                 <img width="868" height="797" alt="Screenshot 2026-02-06 180327" src="https://github.com/user-attachments/assets/d2db6517-1af0-44dd-97a4-4ee74d4fef8f" />
                 <img width="873" height="325" alt="Screenshot 2026-02-06 180400" src="https://github.com/user-attachments/assets/d774149c-9f74-4526-8555-59991272ac5e" />
         <h3>Step 8: Configure and Connect Trunk Ports</h3>
-            <p>- For this next step, we will configure interfaces fa0/23-24 as our trunk ports, while also administratevly shutting down our gig ports for added security.</p>
+            <p>- For this next step, we will configure interfaces fa0/23-24 as our trunk ports, while also administratively shutting down our gig ports for added security.</p>
                 <img width="867" height="386" alt="Screenshot 2026-02-06 181415" src="https://github.com/user-attachments/assets/5cc841fe-bd6e-40cb-a1cc-1cb2cd8952f8" />
                 <img width="868" height="387" alt="Screenshot 2026-02-06 181548" src="https://github.com/user-attachments/assets/b64da8dd-b3d7-4cbf-8c24-d53e40269be8" />
                 <img width="870" height="381" alt="Screenshot 2026-02-06 181705" src="https://github.com/user-attachments/assets/0f8dd081-9bb0-4669-8d3e-244d0e3e4b16" />

@@ -26,9 +26,9 @@
                 <img width="871" height="616" alt="Screenshot 2026-02-06 172212" src="https://github.com/user-attachments/assets/0239a279-7874-41fe-9cde-7602be6e307d" />
                 <img width="871" height="890" alt="Screenshot 2026-02-06 172337" src="https://github.com/user-attachments/assets/92834966-d56d-4f3a-b417-4e1c1a37db5f" />
         <h3>Step 4: Create MGMT VLAN Interface</h3>
-            <p>- For this step, we will now create these VLANs on both switches to segment a single physical network infrastructure into multiple, isolated, logical networks, improving performance, security, and management.</p>
-                <img width="869" height="920" alt="Screenshot 2026-02-05 180818" src="https://github.com/user-attachments/assets/9bf9ce07-cc81-4e64-ad62-6f9865424ea9" />
-                <img width="870" height="884" alt="Screenshot 2026-02-05 181021" src="https://github.com/user-attachments/assets/c47cb564-3475-49e1-8b9e-a03253684591" />
+                <img width="866" height="272" alt="Screenshot 2026-02-06 172923" src="https://github.com/user-attachments/assets/f4bc5bc7-b1c7-406a-99c1-572975935a4d" />
+                <img width="871" height="337" alt="Screenshot 2026-02-06 173041" src="https://github.com/user-attachments/assets/92a3c725-654c-48a2-a163-69e590954c51" />
+                <img width="871" height="275" alt="Screenshot 2026-02-06 173158" src="https://github.com/user-attachments/assets/cb897151-013a-4724-9fb4-ab388a8a53a2" />
         <h3>Step 5: Configure Default Gateway</h3>
             <p>- In this step, we will configure the VLAN Trunking Protocol Server to centralize and automate the management of VLAN configurations (add, delete, rename) across all switches in this topology.</p>
                 <img width="869" height="956" alt="Screenshot 2026-02-05 181801" src="https://github.com/user-attachments/assets/fafc602d-5167-46e5-978a-5a821b52ddab" />

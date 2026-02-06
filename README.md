@@ -1,7 +1,7 @@
 <p align="center">
 <img width="901" height="274" alt="Screenshot 2026-02-06 164314" src="https://github.com/user-attachments/assets/cec2ced5-3323-4d84-a2a2-b60b96955907" />
 </p>
-<h1><u>Milestone 2: HQ Core-Switching</u></h1>
+<h1><u>Milestone 3: HQ Access-Switching</u></h1>
     <p>First phase, we will install 2 Cisco WS-C3560-24PS configured with port-channel, Hot Standby Router
 Protocol, Per VLAN Spanning-Tree (PVST) with dual root and split VLAN traffic, and VTP Server.</p>
     <h2><strong><u>Configuration Steps</u></strong></h2>

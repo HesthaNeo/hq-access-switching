@@ -9,8 +9,8 @@
     <p>Step 3: Configure VLAN Trunking Protocol (VTP) Client</p>
     <p>Step 4: Configure MGMT VLAN Interface</p>
     <p>Step 5: Configure Default Gateway</p>
-    <p>Step 6: Configure and Connect Trunk Ports</p>
-    <p>Step 7: Configure Access Ports</p>
+    <p>Step 6: Configure Access Ports</p>
+    <p>Step 7: Configure and Connect Trunk Ports</p>
     <h2><strong><u>Implementation</u></strong></h2>
         <h3>Step 1: Rack, Mount, and Power On All 3 Switches</h3>
             <p>- First, we'll add three 2960 switches to the topology by dragging and dropping them into the Headquarters section of the lab. Place them side by side and label them as HQ-ASW1, HQ-ASW2, and HQ-ASW3.</p>
@@ -35,11 +35,11 @@
                 <img width="867" height="227" alt="Screenshot 2026-02-06 173804" src="https://github.com/user-attachments/assets/7889b8e9-57a4-489e-830c-0666a44a69cd" />
                 <img width="868" height="226" alt="Screenshot 2026-02-06 173845" src="https://github.com/user-attachments/assets/f0f17c2b-956e-49ff-b165-c225725d7412" />
                 <img width="874" height="225" alt="Screenshot 2026-02-06 173925" src="https://github.com/user-attachments/assets/10c4ef2e-7b14-4da8-8c5c-26a442f6884b" />
-        <h3>Step 6: Configure and Connect Trunk Ports</h3>
+        <h3>Step 6: Configure Access Ports</h3>
             <p>- For this step, we will create the VLAN interfaces for the corresponding VLANs we have created, so that we can in fact route traffic between the different VLANs, enabling inter-VLAN communication.</p>
                 <img width="866" height="744" alt="Screenshot 2026-02-05 183818" src="https://github.com/user-attachments/assets/163ad1d5-f493-45e2-8456-a2ea8ab5bd31" />
                 <img width="867" height="729" alt="Screenshot 2026-02-05 183940" src="https://github.com/user-attachments/assets/644f4b1e-93ef-44ef-8cc7-b691a4c8ffe8" />
-        <h3>Step 7: Configure Access Ports</h3>
+        <h3>Step 7: Configure and Connect Trunk Ports</h3>
             <p>- For this next step, we will configure HSRP under all VLAN interfaces to share an IP address between the switches to provide first-hop gateway redundancy, ensuring uninterrupted network connectivity if a primary switch were to fail. This will create a virtual IP and MAC address shared between the switches, allowing hosts to maintain a consistent default gateway IP, thereby minimizing downtime during network failures.</p>
                 <img width="866" height="761" alt="Screenshot 2026-02-05 185513" src="https://github.com/user-attachments/assets/7286b27b-ce25-455d-996d-57ad053ce965" />
                 <img width="867" height="797" alt="Screenshot 2026-02-05 185911" src="https://github.com/user-attachments/assets/c42797f9-9c5d-4a12-ae2c-0885ffd90a3d" />

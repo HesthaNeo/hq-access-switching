@@ -42,9 +42,13 @@
                 <img width="870" height="335" alt="Screenshot 2026-02-06 174909" src="https://github.com/user-attachments/assets/1cdb276d-d96b-4453-b06f-f8e5b1d0e1a8" />
                 <img width="868" height="339" alt="Screenshot 2026-02-06 175110" src="https://github.com/user-attachments/assets/1a88f976-e08d-4855-9e4f-b80cab455061" />
         <h3>Step 7: Configure Access Ports</h3>
-            <p>- For this step, we will create the VLAN interfaces for the corresponding VLANs we have created, so that we can in fact route traffic between the different VLANs, enabling inter-VLAN communication.</p>
-                <img width="866" height="744" alt="Screenshot 2026-02-05 183818" src="https://github.com/user-attachments/assets/163ad1d5-f493-45e2-8456-a2ea8ab5bd31" />
-                <img width="867" height="729" alt="Screenshot 2026-02-05 183940" src="https://github.com/user-attachments/assets/644f4b1e-93ef-44ef-8cc7-b691a4c8ffe8" />
+            <p>- Now we will configure all necessary access ports so that the corresponding end devices may connect to their specific vlan. We do this to provide security by segregating the traffic, simplifying network management, and ensuring these end devices only receive data intended for their assigned network segment. We will be configuring fast access ports Fa0/1 - 22 for all 3 switches. </p>
+                <img width="872" height="607" alt="Screenshot 2026-02-06 180001" src="https://github.com/user-attachments/assets/6ddf15a6-dd85-4b57-b455-e21dc4cdf042" />
+                <img width="869" height="317" alt="Screenshot 2026-02-06 180042" src="https://github.com/user-attachments/assets/b482fd4e-2296-418a-a168-5a5645146501" />
+                <img width="871" height="615" alt="Screenshot 2026-02-06 180157" src="https://github.com/user-attachments/assets/c02b2791-b0a5-42dd-97b3-7ff8bd6b4af6" />
+                <img width="873" height="349" alt="Screenshot 2026-02-06 180227" src="https://github.com/user-attachments/assets/4dff446f-1601-4267-9cde-dcb661249f1e" />
+                <img width="868" height="797" alt="Screenshot 2026-02-06 180327" src="https://github.com/user-attachments/assets/d2db6517-1af0-44dd-97a4-4ee74d4fef8f" />
+                <img width="873" height="325" alt="Screenshot 2026-02-06 180400" src="https://github.com/user-attachments/assets/d774149c-9f74-4526-8555-59991272ac5e" />
         <h3>Step 8: Configure and Connect Trunk Ports</h3>
             <p>- For this next step, we will configure HSRP under all VLAN interfaces to share an IP address between the switches to provide first-hop gateway redundancy, ensuring uninterrupted network connectivity if a primary switch were to fail. This will create a virtual IP and MAC address shared between the switches, allowing hosts to maintain a consistent default gateway IP, thereby minimizing downtime during network failures.</p>
                 <img width="866" height="761" alt="Screenshot 2026-02-05 185513" src="https://github.com/user-attachments/assets/7286b27b-ce25-455d-996d-57ad053ce965" />

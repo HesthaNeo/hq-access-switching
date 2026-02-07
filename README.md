@@ -69,6 +69,8 @@
             <p>- A. We will Drag and drop a PC into the topology and label it as “ASW-Test-PC.</p>
                 <img width="848" height="971" alt="Screenshot 2026-02-07 164138" src="https://github.com/user-attachments/assets/55d790db-750e-4fed-b6f2-242d38b1321b" />
             <p>- B. Next we'll connect a straight-through from the PC FastEthernet0 to an Access Port on HQ-ASW1.</p>
+                <img width="762" height="880" alt="Screenshot 2026-02-07 164435" src="https://github.com/user-attachments/assets/37ffda36-08c7-45d4-a0e2-ed146ba43b07" />
+
 
 
 

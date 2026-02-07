@@ -81,7 +81,7 @@
             <p><em>- As you can see, we are unable to remotely access the management plane of our network, due to the access control lists we configured earlier in the network configuration. Our access list is deny any other IP address that aren't explicitly stated in the configuration, showing that this was successful.</em></p>
             <p>- F. Now using the NOC-PC, lets verify successful management plane access via ssh to the access switches from the management network.</p>
                 <img width="871" height="1017" alt="Screenshot 2026-02-07 170701" src="https://github.com/user-attachments/assets/681e4b22-3f65-4ab5-b612-21ad63e06eb8" />
-            <p><em>- We were able to connect successfully to the management of the newly installed access switches.</em></p>
+            <p><em>- We were able to connect successfully to the management plane of the newly installed access switches.</em></p>
 
 
 

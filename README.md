@@ -12,6 +12,7 @@
     <p>Step 6: Configure Access-List To Protect The Management Plane</p>
     <p>Step 7: Configure Access Ports</p>
     <p>Step 8: Configure and Connect Trunk Ports</p>
+    <p>Step 9: Verify Connectivity In The Network</p>
     <h2><strong><u>Implementation</u></strong></h2>
         <h3>Step 1: Rack, Mount, and Power On All 3 Switches</h3>
             <p>- First, we'll add three 2960 switches to the topology by dragging and dropping them into the Headquarters section of the lab. Place them side by side and label them as HQ-ASW1, HQ-ASW2, and HQ-ASW3.</p>
@@ -63,6 +64,8 @@
                 <img width="869" height="526" alt="Screenshot 2026-02-07 161746" src="https://github.com/user-attachments/assets/d60e1916-9caa-43dd-bbd8-5017a862837b" />
                 <img width="871" height="530" alt="Screenshot 2026-02-07 161828" src="https://github.com/user-attachments/assets/10589e89-a61f-4bb0-b4dd-1d741ac01eaf" />
              <p><em>- As you can see, all of our vlans were successfully transferred over from our core switches to the access switches using VTP protocol.</em></p>
+        <h3>Step 9: Verify Connectivity In The Network</h3>   
+            <p>- In this step, we did basic configuration for both of the switches including changing their hostnames, setting their time zones, enabling SSH, setting domain names, adding securiting to console and vty lines for SSH, and creating user profiles with a password the devices</p>
 
 
 

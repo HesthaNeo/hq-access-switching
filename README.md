@@ -78,6 +78,7 @@
             <p><em>- As you can see, we were able to successfully ping our default gateway (192.168.10.100), the Test-PC connected to our core switches (192.168.10.150), the NOC-PC (192.168.110.50), and all 3 of our access switches (192.168.110.241-3) after ARP finished resolving.</em></p>
             <p>- E. Now from the command prompt of the ASW-Test-PC we'll verify management plane ssh access to the access switches is restricted.</p>
                 <img width="875" height="269" alt="Screenshot 2026-02-07 165953" src="https://github.com/user-attachments/assets/eb771257-9913-434e-b375-41069453b493" />
+            <p><em>- As you can see, we are unable to remotely access the management plane of our network, due to the access control lists we configured earlier in the network configuration. Our access list is deny any other IP address that aren't explicitly stated in the configuration, showing that this was successful.</em></p>
 
 
 

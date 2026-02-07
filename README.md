@@ -74,6 +74,8 @@
                 <img width="870" height="884" alt="Screenshot 2026-02-07 164807" src="https://github.com/user-attachments/assets/0e91fbeb-993d-4804-811d-c0a8a08220d3" />
                 <img width="867" height="887" alt="Screenshot 2026-02-07 164844" src="https://github.com/user-attachments/assets/815ebfbf-4859-4ee0-a1a7-8a0ae616d3ac" />
             <p>- D. Now we can access the command prompt of the ASW-Test-PC to test connectivity to various IPs.</p>
+                <img width="2557" height="1599" alt="Screenshot 2026-02-07 165312" src="https://github.com/user-attachments/assets/affc40cd-8a5c-4162-8670-b8bd41363f5c" />
+
 
 
 

@@ -58,6 +58,7 @@
             <p><em>- We will connect ASW 1-3 ports Fa0/23 to trunk port fa0/19, fa0/20, and fa0/21 on CORE-SW1.</em></p>
             <p><em>- We will connect ASW 1-3 ports Fa0/24 to trunk port fa0/19, fa0/20, and fa0/21 on CORE-SW2.</em></p>
                 <img width="734" height="863" alt="Screenshot 2026-02-06 183510" src="https://github.com/user-attachments/assets/e8f4ceeb-dd2a-48b6-80af-976ac2016021" />
+            <p>- B. Now we will verify the VLAN database to ensure all VLANs were copied over from the VTP Servers to the VTP Clients (i.e. from core switches to access switches).</p>
 
 <p><em>- For the priority 255 command, it will force the switch to be the primary gateway, while configuring priority 0 will ensure it is the last resort for the specific vlan. The preempt command allows the higher priority switch to immediately seize control from the active switch with lower the priority if there happened to be a device failure.</em></p>
         

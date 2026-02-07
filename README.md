@@ -62,6 +62,7 @@
                 <img width="871" height="588" alt="Screenshot 2026-02-07 161651" src="https://github.com/user-attachments/assets/35a4eabe-3543-4ce5-8c21-02abfdd5b8b2" />
                 <img width="869" height="526" alt="Screenshot 2026-02-07 161746" src="https://github.com/user-attachments/assets/d60e1916-9caa-43dd-bbd8-5017a862837b" />
                 <img width="871" height="530" alt="Screenshot 2026-02-07 161828" src="https://github.com/user-attachments/assets/10589e89-a61f-4bb0-b4dd-1d741ac01eaf" />
+             <p><em>- As you can see, all of our vlans were successfully transferred over from our core switches to the access switches using VTP protocol.</em></p>
 
 
 

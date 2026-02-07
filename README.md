@@ -75,7 +75,7 @@
                 <img width="867" height="887" alt="Screenshot 2026-02-07 164844" src="https://github.com/user-attachments/assets/815ebfbf-4859-4ee0-a1a7-8a0ae616d3ac" />
             <p>- D. Now we can access the command prompt of the ASW-Test-PC to test connectivity to various IPs.</p>
                 <img width="2557" height="1599" alt="Screenshot 2026-02-07 165312" src="https://github.com/user-attachments/assets/affc40cd-8a5c-4162-8670-b8bd41363f5c" />
-            <p><em>- As you can see, we were able to successfully ping our default gateway (192.168.10.100), the Test-PC connected to our core switches (192.168.10.150), the NOC-PC (192.168.110.50), and all 3 of our access switches (192.168.110.241-3).</em></p>
+            <p><em>- As you can see, we were able to successfully ping our default gateway (192.168.10.100), the Test-PC connected to our core switches (192.168.10.150), the NOC-PC (192.168.110.50), and all 3 of our access switches (192.168.110.241-3) after ARP finished resolving.</em></p>
 
 
 

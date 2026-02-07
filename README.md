@@ -73,6 +73,7 @@
             <p>- C. Now we'll click on the PC to configure a static IP address, subnet mask, and default gateway. Our IP address for this Test PC will be 192.168.10.151 255.255.255.0 with a default gateway of 192.168.10.100.</p>
                 <img width="870" height="884" alt="Screenshot 2026-02-07 164807" src="https://github.com/user-attachments/assets/0e91fbeb-993d-4804-811d-c0a8a08220d3" />
                 <img width="867" height="887" alt="Screenshot 2026-02-07 164844" src="https://github.com/user-attachments/assets/815ebfbf-4859-4ee0-a1a7-8a0ae616d3ac" />
+            <p>- D. Now we can access the command prompt of the ASW-Test-PC to test connectivity to various IPs.</p>
 
 
 

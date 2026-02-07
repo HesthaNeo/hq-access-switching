@@ -66,6 +66,7 @@
              <p><em>- As you can see, all of our vlans were successfully transferred over from our core switches to the access switches using VTP protocol.</em></p>
         <h3>Step 9: Verify Connectivity In The Network</h3>   
             <p>- For the final step in this second milestone, we will now connect a new Test PC to the Data VLAN for testing network access via the Access Switches.</p>
+            <p>- A. We will Drag and drop a PC into the topology and label it as “ASW-Test-PC.</p>
 
 
 

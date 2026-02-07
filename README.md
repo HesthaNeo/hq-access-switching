@@ -67,6 +67,8 @@
         <h3>Step 9: Verify Connectivity In The Network</h3>   
             <p>- For the final step in this second milestone, we will now connect a new Test PC to the Data VLAN for testing network access via the Access Switches.</p>
             <p>- A. We will Drag and drop a PC into the topology and label it as “ASW-Test-PC.</p>
+                <img width="848" height="971" alt="Screenshot 2026-02-07 164138" src="https://github.com/user-attachments/assets/55d790db-750e-4fed-b6f2-242d38b1321b" />
+
 
 
 

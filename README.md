@@ -4,15 +4,15 @@
 <h1><u>Milestone 3: HQ Access Switching</u></h1>
     <p>Second phase, we will install 3 Cisco WS-C2960-24TT layer 2 access switches.</p>
     <h2><strong><u>Configuration Steps</u></strong></h2>
-    <p>Step 1: Rack, Mount, and Power On All 3 Switches</p>
-    <p>Step 2: Basic Switch Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</p>
-    <p>Step 3: Configure VLAN Trunking Protocol (VTP) Client</p>
-    <p>Step 4: Configure MGMT VLAN Interface</p>
-    <p>Step 5: Configure Default Gateway</p>
-    <p>Step 6: Configure Access-List To Protect The Management Plane</p>
-    <p>Step 7: Configure Access Ports</p>
-    <p>Step 8: Configure and Connect Trunk Ports</p>
-    <p>Step 9: Verify Connectivity In The Network</p>
+    <p><b>Step 1: Rack, Mount, and Power On All 3 Switches</b></p>
+    <p><b>Step 2: Basic Switch Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</b></p>
+    <p><b>Step 3: Configure VLAN Trunking Protocol (VTP) Client</b></p>
+    <p><b>Step 4: Configure MGMT VLAN Interface</b></p>
+    <p><b>Step 5: Configure Default Gateway</b></p>
+    <p><b>Step 6: Configure Access-List To Protect The Management Plane</b></p>
+    <p><b>Step 7: Configure Access Ports</b></p>
+    <p><b>Step 8: Configure and Connect Trunk Ports</b></p>
+    <p><b>Step 9: Verify Connectivity In The Network</b></p>
     <h2><strong><u>Implementation</u></strong></h2>
         <h3>Step 1: Rack, Mount, and Power On All 3 Switches</h3>
             <p>- First, we'll add three 2960 switches to the topology by dragging and dropping them into the Headquarters section of the lab. Place them side by side and label them as HQ-ASW1, HQ-ASW2, and HQ-ASW3.</p>
